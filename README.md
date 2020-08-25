@@ -14,4 +14,4 @@ php artisan db: seed
 
 ## To start a development server
 
-php artisan serves
+php artisan serve
